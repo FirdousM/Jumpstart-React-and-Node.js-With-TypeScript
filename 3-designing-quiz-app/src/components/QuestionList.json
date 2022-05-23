@@ -1,0 +1,19 @@
+[{
+    "question": "Sun rises in the ____",
+    "options1": "North",
+    "options2": "South",
+    "options3": "East",
+    "options4": "West"
+},{
+    "question":"Largest ocean is ____",
+    "options1": "Pacific Ocean",
+    "options2": "Artic Ocean",
+    "options3": "Atlantic Ocean",
+    "options4": "Indian Ocean"
+},{
+    "question": "Canada is in which continent?",
+    "options1": "Asia",
+    "options2": "Africa",
+    "options3": "North America",
+    "options4": "South America"
+}]
